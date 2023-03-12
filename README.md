@@ -1,2 +1,8 @@
 # fenrir
-The automative test framework for python command line project
+The simplest test framework for python command line project
+
+
+## Executing the command
+```
+tox
+```
